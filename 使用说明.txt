@@ -1,0 +1,6 @@
+引入后需要添加
+ :shopUrl=
+其格式  shopUrl: [{url: '../../../static/timg.jpg'},
+                    {url: '../../../static/time1.jpg'}],
+
+使用时 只需引入 pdShow
